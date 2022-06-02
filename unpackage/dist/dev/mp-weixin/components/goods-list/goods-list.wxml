@@ -1,0 +1,1 @@
+<view class="hot_goods"><view class="tit">推荐商品</view><view class="goods_list"><goods wx:for="{{a}}" wx:for-item="item" wx:key="a" bindclick="{{item.b}}" u-i="{{item.c}}" bind:__l="__l" u-p="{{item.d}}"></goods></view></view>

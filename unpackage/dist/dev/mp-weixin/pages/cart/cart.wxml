@@ -1,0 +1,1 @@
+<view class="cart"><view wx:for="{{a}}" wx:for-item="item" class="cart-content"><cart-item wx:if="{{item.b}}" class="cart-content-item" bindupdateCart="{{b}}" u-i="{{item.a}}" bind:__l="__l" u-p="{{item.b}}"></cart-item></view><view wx:if="{{c}}" class="cart-msg">{{d}}</view></view>

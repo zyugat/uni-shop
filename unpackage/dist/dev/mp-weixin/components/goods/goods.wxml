@@ -1,0 +1,1 @@
+<view class="goods_item"><image src="{{a}}"></image><view class="price"><text>{{b}}</text></view><view class="name" bindtap="{{d}}">{{c}}</view></view>

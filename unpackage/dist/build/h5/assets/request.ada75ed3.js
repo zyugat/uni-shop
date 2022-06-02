@@ -1,0 +1,1 @@
+import{l as t}from"./index.cfe26b5f.js";const s=s=>new Promise(((a,e)=>{t({url:"https://api.zyugat.cn/study"+s.url,method:s.method||"get",data:s.data||{},success(t){a(t)},fail(t){e(t)}})}));export{s as m};
