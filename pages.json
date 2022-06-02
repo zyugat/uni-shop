@@ -74,7 +74,7 @@
 	},
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "购书平台",
+		"navigationBarTitleText": "平台",
 		"navigationBarBackgroundColor": "#3374A3",
 		"backgroundColor": "#F8F8F8"
 	}
